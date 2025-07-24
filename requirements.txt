@@ -1,3 +1,4 @@
 streamlit
 numpy
 pickle5
+tensorflow-cpu
